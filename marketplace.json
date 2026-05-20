@@ -1,0 +1,22 @@
+{
+  "name": "Pierce's AI Skills",
+  "description": "Personal and work skills",
+  "skills": [
+    {
+      "name": "grill-me",
+      "path": "grill-me"
+    },
+    {
+      "name": "kbi-exec-minutes",
+      "path": "kbi-exec-minutes"
+    },
+    {
+      "name": "kbi-executive-minutes-prep",
+      "path": "kbi-executive-minutes-prep"
+    },
+    {
+      "name": "kbi-letter",
+      "path": "kbi-letter"
+    }
+  ]
+}
